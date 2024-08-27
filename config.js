@@ -32,7 +32,7 @@ global.website = process.env.GURL || "https://whatsapp.com/channel/0029VaDK8ZUDj
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/1f4e6e1cc2ed1662adb36.jpg";
 global.devs = "923135673658";
 global.sudo = process.env.SUDO || "923192173398";
-global.owner = process.env.OWNER_NUMBER || "923192173398";
+global.owner = process.env.OWNER_NUMBER || "94707230540";
 global.style = process.env.STYLE || "3";
 global.gdbye = process.env.GOODBYE || "false";
 global.wlcm = process.env.WELCOME || "false";
@@ -56,7 +56,7 @@ global.scan = "https://pair-qr-wasi-md.onrender.com";
 
 global.SESSION_ID =
   process.env.SESSION_ID ||
-  ""
+  "VAJIRA-MD=OR0UVAzR#aFg_beTw4xVXxO--yNu51PxtcS2u0wJh7FJLAq1FGIs"
 module.exports = {
   menu: process.env.MENU || "",
   HANDLERS: process.env.PREFIX || ".",
